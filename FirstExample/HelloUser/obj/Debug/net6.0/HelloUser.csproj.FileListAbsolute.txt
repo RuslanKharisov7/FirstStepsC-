@@ -1,0 +1,15 @@
+C:\C#FirstSteps\FirstExample\HelloUser\bin\Debug\net6.0\HelloUser.exe
+C:\C#FirstSteps\FirstExample\HelloUser\bin\Debug\net6.0\HelloUser.deps.json
+C:\C#FirstSteps\FirstExample\HelloUser\bin\Debug\net6.0\HelloUser.runtimeconfig.json
+C:\C#FirstSteps\FirstExample\HelloUser\bin\Debug\net6.0\HelloUser.dll
+C:\C#FirstSteps\FirstExample\HelloUser\bin\Debug\net6.0\HelloUser.pdb
+C:\C#FirstSteps\FirstExample\HelloUser\obj\Debug\net6.0\HelloUser.csproj.AssemblyReference.cache
+C:\C#FirstSteps\FirstExample\HelloUser\obj\Debug\net6.0\HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#FirstSteps\FirstExample\HelloUser\obj\Debug\net6.0\HelloUser.AssemblyInfoInputs.cache
+C:\C#FirstSteps\FirstExample\HelloUser\obj\Debug\net6.0\HelloUser.AssemblyInfo.cs
+C:\C#FirstSteps\FirstExample\HelloUser\obj\Debug\net6.0\HelloUser.csproj.CoreCompileInputs.cache
+C:\C#FirstSteps\FirstExample\HelloUser\obj\Debug\net6.0\HelloUser.dll
+C:\C#FirstSteps\FirstExample\HelloUser\obj\Debug\net6.0\refint\HelloUser.dll
+C:\C#FirstSteps\FirstExample\HelloUser\obj\Debug\net6.0\HelloUser.pdb
+C:\C#FirstSteps\FirstExample\HelloUser\obj\Debug\net6.0\HelloUser.genruntimeconfig.cache
+C:\C#FirstSteps\FirstExample\HelloUser\obj\Debug\net6.0\ref\HelloUser.dll
