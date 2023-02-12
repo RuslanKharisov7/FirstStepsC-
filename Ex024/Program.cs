@@ -6,7 +6,10 @@ Console.WriteLine($"Сумма чисел от 1 до {A} равна {GetSum(A)}
 int GetSum (int A)
 {
     int sum = 0;
-    for (int i = 1; i<= A; i++)
-    sum+=i;
+    while (A>0)
+    {
+        result += number%10;
+        number = number/10;
+    }
     return sum;
 }
