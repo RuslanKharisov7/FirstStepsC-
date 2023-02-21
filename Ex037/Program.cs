@@ -12,8 +12,7 @@ int[] GetArray(int size, int minValue, int maxValue)
     }
     return res;
 }
-
-int count = 0;
+ int count = 0;
 for( int i=0; i<Array.Length; i++)
 {
     if(Array[i] >= 10 & Array[i]<=99)
