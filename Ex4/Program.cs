@@ -6,7 +6,7 @@ using System;
 using static System.Console;
 Clear();
 Write("Введите введите размерность массива через пробел: ");
-string[] numbers = ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
+string[] numbers = ReadLine()!.Split(" ", StringSplitOptions.RemoveEmptyEntries);
 int[,,] array = GetArray(new int[] { int.Parse(numbers[0]), int.Parse(numbers[1]), int.Parse(numbers[2]) }, 10, 99);
 PrintArray(array);
 

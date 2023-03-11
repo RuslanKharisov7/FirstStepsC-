@@ -5,7 +5,7 @@ using System;
 using static System.Console;
 Clear();
 Write($"Введите размер матрицы: ");
-int s = int.Parse(ReadLine());
+int s = int.Parse(ReadLine()!);
 int[,] arr = GetArray(s);
 
 PrintArray(arr);
